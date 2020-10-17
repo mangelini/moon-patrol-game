@@ -1,19 +1,26 @@
-## Moon Patrol
+# Moon Patrol
 
-![](moon-patrol-giphy.gif)
-You can play either in single mode or with a friend in co-op.\n
-There are two levels: one with aliens, rocks and holes, and the other with cannons, bombers and aliens.\n
-You can choose between three levels of difficulty: Easy, Normal, Hard. \n
-You have three lives to win the game, and your max score will be saved\n
+![](moon-patrol-giphy.gif). 
+You can play either in single mode or with a friend in co-op.  
+There are two levels: one with aliens, rocks and holes, and the other with cannons, bombers and aliens.
+You can choose between three levels of difficulty: Easy, Normal, Hard.  
+You have three lives to win the game, and your max score will be saved.  
 
-The commands are:\n - for the first Rover: \n
-'Right Arrow Key' to go right\n
-'Left Arrow Key' to go left\n
-'Arrow Up' to jump\n
-'Space' to shoot\n
+##Commands
 
-    - for the second Rover:\n
-        'd' to go right\n
-        'a' to go left\n
-        'w' to jump\n
-        's' to shoot \n
+For the first Rover:  
+
+<ul>
+<li>'Right Arrow Key' to go right</li>
+<li>'Left Arrow Key' to go left</li>
+<li>'Arrow Up' to jump</li>
+<li>'Space' to shoot</li>
+<ul>
+
+For the second Rover:  
+<ul>
+<li>'d' to go right</li>
+<li>'a' to go left</li>
+<li>'w' to jump</li>
+<li>'s' to shoot</li>
+</ul>
